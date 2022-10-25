@@ -19,7 +19,7 @@ app.get('/categories', (req, res) => {
 app.get('/category/:id', (req, res) => {
     const id = req.params.id;
     if (id === '06') {
-        res(course)
+        res.send(course)
     }
     else {
         const category_course = course.filter(n => n.category_id === id);
