@@ -1,8 +1,8 @@
 # Programoholic Project
 
-## Deployment
+## Server Deployment
 
-[Live site](https://programoholic-981e6.web.app/)
+[Live site](https://programoholic-server.vercel.app/)
 
 ## Frameworks/libraries used:
 
